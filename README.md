@@ -15,5 +15,8 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/Abdulkader13/Christmas-Tree-Decoration-App.git
-Скриншот рабочего окна приложения:
-![Screenshot (88)](https://github.com/user-attachments/assets/22fab73e-8508-4b63-b1d1-c1bf0491e825)
+
+# Скриншот рабочего окна приложения:
+![Screenshot (208)](https://github.com/user-attachments/assets/f1e1b641-8629-4c5e-b250-5b5be4af4dd4)
+
+
