@@ -18,10 +18,4 @@
 ![111](https://github.com/user-attachments/assets/b3d521ab-89fd-4677-a4fe-26001d02174c)
 
 
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/Abdulkader13/Christmas-Tree-Decoration-App.git
-
-
-
 
